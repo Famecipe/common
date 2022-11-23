@@ -5,6 +5,7 @@
     <RootNamespace>Famecipe.Common</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <RepositoryUrl>https://github.com/Famecipe/common</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
